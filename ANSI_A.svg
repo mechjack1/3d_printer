@@ -5,36 +5,12 @@
    viewBox="0 0 279.40001 215.9"
    height="8.5in"
    width="11in"
-   sodipodi:docname="ANSI_A.svg"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:freecad="http://www.freecadweb.org/wiki/index.php?title=Svg_Namespace">
-  <sodipodi:namedview
-     id="namedview92"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:document-units="mm"
-     showgrid="false"
-     units="in"
-     inkscape:zoom="0.99142157"
-     inkscape:cx="528.02967"
-     inkscape:cy="408"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="1912"
-     inkscape:window-y="120"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg1061" />
   <defs
      id="defs1055" />
   <metadata
@@ -333,21 +309,30 @@
   <text
      freecad:editable="Scale"
      id="BlockH Scale"
-     y="210.205"
-     x="179.77676"
+     y="209.64314"
+     x="189.37502"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.24px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><tspan
-       y="210.205"
-       x="179.77676"
+       y="209.64314"
+       x="189.37502"
        id="tspan3770-2">Scale</tspan></text>
   <text
      freecad:editable="Code"
      id="BlockI Code"
-     y="203.34599"
-     x="187.87021"
+     y="203.81302"
+     x="192.87407"
      style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.24px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"><tspan
-       y="203.34599"
-       x="187.87021"
+       y="203.81302"
+       x="192.87407"
        id="tspan3788-7">Code</tspan></text>
+  <text
+     freecad:editable="Code"
+     id="BlockI Code-0"
+     y="199.42599"
+     x="185.51242"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.24px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"><tspan
+       y="199.42599"
+       x="185.51242"
+       id="tspan3788-7-0">CODE:</tspan></text>
   <text
      id="BlockJ Size"
      y="203.17635"
@@ -359,19 +344,80 @@
   <text
      freecad:editable="Weight"
      id="BlockK Weight"
-     y="209.16774"
-     x="203.39426"
+     y="209.64314"
+     x="219.00836"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.24px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><tspan
-       y="209.16774"
-       x="203.39426"
+       y="209.64314"
+       x="219.00836"
        id="tspan3774-9">Weight</tspan></text>
   <text
-     freecad:editable="Sheet"
      id="BlockL Sheet"
-     y="209.205"
-     x="240.89322"
+     y="209.57986"
+     x="237.89296"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.24px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><tspan
-       y="209.205"
-       x="240.89322"
-       id="tspan3780-0">Sheet n of m</tspan></text>
+       y="209.57986"
+       x="237.89296"
+       id="tspan3780-0">SHEET</tspan></text>
+  <text
+     freecad:editable="Scale"
+     id="BlockH Scale-3"
+     y="209.57986"
+     x="176.65675"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.24px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><tspan
+       y="209.57986"
+       x="176.65675"
+       id="tspan3770-2-4">SCALE:</tspan></text>
+  <text
+     freecad:editable="Weight"
+     id="BlockK Weight-2"
+     y="209.57986"
+     x="202.11777"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.24px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><tspan
+       y="209.57986"
+       x="202.11777"
+       id="tspan3774-9-7">WEIGHT</tspan></text>
+  <text
+     freecad:editable="DrawingNumber"
+     id="BlockC DrawingNumber-6"
+     y="199.71637"
+     x="211.28043"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.24px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"><tspan
+       y="199.71637"
+       x="211.28043"
+       id="tspan3792-9-4">DRAWING NO.</tspan></text>
+  <text
+     freecad:editable="Sheet"
+     id="BlockL Sheet-5"
+     y="209.53714"
+     x="250.45517"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.24px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><tspan
+       y="209.53714"
+       x="250.45517"
+       id="tspan3780-0-0">XX</tspan></text>
+  <text
+     id="BlockL Sheet-5-5"
+     y="209.58618"
+     x="257.98251"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.24px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><tspan
+       y="209.58618"
+       x="257.98251"
+       id="tspan3780-0-0-1">OF</tspan></text>
+  <text
+     freecad:editable="Sheet"
+     id="BlockL Sheet-5-59"
+     y="209.53714"
+     x="265.52148"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.24px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><tspan
+       y="209.53714"
+       x="265.52148"
+       id="tspan3780-0-0-14">XX</tspan></text>
+  <text
+     freecad:editable="Revision"
+     id="BlockD Revision-4"
+     y="199.71054"
+     x="267.22601"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.24px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"><tspan
+       y="199.71054"
+       x="267.22601"
+       id="tspan3796-0-4">REV.</tspan></text>
 </svg>
